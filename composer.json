@@ -1,0 +1,14 @@
+{
+    "name": "skrepr/skrepr-advent-of-code-2022-evan",
+    "authors": [
+        {
+            "name": "Evan van Urk",
+            "email": "evan@skrepr.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AoC\\": "src/"
+        }
+    }
+}
